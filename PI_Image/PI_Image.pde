@@ -25,7 +25,7 @@ void setup() {
       String s = "" + pi.charAt(index);
       int digit = int(s);
       //float bright = map(digit, 0, 9, 0, 255);
-      float hue = digit / 9.0;
+      float hue = digit / 10.0;
       canvas.fill(hue, 1, 1);
       canvas.noStroke();
       canvas.rect(x, y, w, h);
