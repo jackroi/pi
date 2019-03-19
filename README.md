@@ -10,5 +10,12 @@ Collection of PI related projects (approximating and visualizing PI digits).
 ## p5.js
 - PI_Leibniz
 
+## Resources
+[The Coding Train](https://www.youtube.com/user/shiffman)
+
+[Numberphile](https://www.youtube.com/user/numberphile)
+
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
 ## Credits
 Thanks to Daniel Shiffman and his amazing videos on PI.
