@@ -6,6 +6,7 @@ Collection of PI related projects (approximating and visualizing PI digits).
 - PI_Image
 - Pi_VisualizingDigits
 - PI_MontaCarlo
+- PI_MandelbrotSet
 
 ## p5.js
 - PI_Leibniz
