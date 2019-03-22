@@ -18,5 +18,7 @@ Collection of PI related projects (approximating and visualizing PI digits).
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
+[www.pi314.net](http://www.pi314.net)
+
 ## Credits
 Thanks to Daniel Shiffman and his amazing videos on PI.
