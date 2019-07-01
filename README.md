@@ -20,5 +20,5 @@ Collection of PI related projects (approximating and visualizing PI digits).
 
 [www.pi314.net](http://www.pi314.net)
 
-## Credits
+## Acknowledgements
 Thanks to Daniel Shiffman and his amazing videos on PI.
