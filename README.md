@@ -9,7 +9,7 @@ Collection of PI related projects (approximating and visualizing PI digits).
 - PI_MandelbrotSet
 
 ## p5.js
-- [PI_Leibniz](https://github.com/jackroi/pi/PI_Leibniz/)
+- [PI_Leibniz](https://jackroi.github.io/pi/PI_Leibniz/)
 
 ## Resources
 [The Coding Train](https://www.youtube.com/user/shiffman)
